@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Thank you, Mr. Sampson; she is better within doors.',
+      'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'But this is not the time or place for such a study, which would be interesting only to the adepts in Counterpoint and Thoroughbass.',
+      'Buda-Pesth seems a wonderful place.',
   'example3':
-      'The group of dreams to which the two last mentioned belong, having as content the death of beloved relatives, will be considered again under the head of "Typical Dreams.'      
+      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
 };
 
 function status(statusText) {
