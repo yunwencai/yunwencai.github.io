@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Thank you, Mr. Sampson; she is better within doors.',
+      'I only use the word to express a monster in a lecturing castle, with Heaven knows how many heads manipulated into one, taking childhood captive, and dragging it into gloomy statistical dens by the hair.',
   'example2':
       'But this is not the time or place for such a study, which would be interesting only to the adepts in Counterpoint and Thoroughbass.',
   'example3':
